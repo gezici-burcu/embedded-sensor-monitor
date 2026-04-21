@@ -92,4 +92,4 @@ The system follows a layered design:
 ---
 
 ## Author
-Burcu Gezici
+Burcu GEZİCİ
